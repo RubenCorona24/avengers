@@ -18,3 +18,4 @@
 * Antman
 * Nick Fury
 * Spiderman
+En esta párte ya hemos borrado a personajes innecesarios.
