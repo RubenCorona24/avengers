@@ -18,5 +18,5 @@
 * Antman
 * Nick Fury
 * Spiderman
-En esta párte ya hemos borrado a personajes innecesarios.
+En esta parte ya hemos borrado a personajes innecesarios.
 Por esta otra parte es un recordatorio de que todas las misiones deben de estar cumplidas.
